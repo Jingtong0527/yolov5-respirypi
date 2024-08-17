@@ -1,0 +1,5 @@
+train: D:/myfiles/afterclass/deep_learning/car/dataset-group2/division/train.txt
+val: D:/myfiles/afterclass/deep_learning/car/dataset-group2/division/val.txt
+test: D:/myfiles/afterclass/deep_learning/car/dataset-group2/division/test.txt
+nc: 1
+names: ['panda']
